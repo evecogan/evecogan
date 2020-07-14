@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on media, writing and admin tasks
+- 🔭 I work at SSW https://www.ssw.com.au/people/ on media, writing and admin tasks
 - 🌱 I’m currently learning about media production, storytelling and marketing
 - 🤔 I’m looking for help with technical problems
 - 💬 Ask me about media, writing or admin
